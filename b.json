@@ -1,0 +1,13 @@
+    {
+        "date_key": ["2021-09-01","2021-09-02"],
+        "seller_id": ["875","875"],
+        "shipping_discount_type": ["freeship_plus","freeship_plus"],
+        "rule_id": ["2433424, 2433426","2433424, 2433426"],
+        "rule_name": ["Freeship Plus","Freeship Plus"],
+        "tiki_shipping_cost": ["20000","22000"],
+        "seller_shipping_cost": ["8800","9900"],
+        "total_order": ["1","3"],
+        "total_buyer": ["1","2"],
+        "revenue": ["220000","330000"],
+        "unit_sold": ["2","4"]
+    }
