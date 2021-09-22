@@ -1,0 +1,247 @@
+    {
+        "date_key": "2021-09-01",
+        "seller_id": "875",
+        "shipping_discount_type": "freeship_plus",
+        "rule_id": "2433424, 2433426",
+        "rule_name": "Freeship Plus",
+        "tiki_shipping_cost": "20000",
+        "seller_shipping_cost": "8800",
+        "total_order": "1",
+        "total_buyer": "1",
+        "revenue": "220000",
+        "unit_sold": "2"
+    }
+    {
+        "date_key": "2021-09-02",
+        "seller_id": "875",
+        "shipping_discount_type": "freeship_plus",
+        "rule_id": "2433424, 2433427",
+        "rule_name": "Freeship Plus",
+        "tiki_shipping_cost": "22000",
+        "seller_shipping_cost": "9900",
+        "total_order": "3",
+        "total_buyer": "2",
+        "revenue": "330000",
+        "unit_sold": "4"
+    }
+    {
+        "date_key": "2021-09-03",
+        "seller_id": "875",
+        "shipping_discount_type": "freeship_plus",
+        "rule_id": "2433424, 2433428",
+        "rule_name": "Freeship Plus",
+        "tiki_shipping_cost": "24000",
+        "seller_shipping_cost": "11000",
+        "total_order": "5",
+        "total_buyer": "3",
+        "revenue": "440000",
+        "unit_sold": "6"
+    }
+    {
+        "date_key": "2021-09-04",
+        "seller_id": "875",
+        "shipping_discount_type": "freeship_plus",
+        "rule_id": "2433424, 2433429",
+        "rule_name": "Freeship Plus",
+        "tiki_shipping_cost": "26000",
+        "seller_shipping_cost": "12100",
+        "total_order": "7",
+        "total_buyer": "4",
+        "revenue": "550000",
+        "unit_sold": "8"
+    }
+    {
+        "date_key": "2021-09-05",
+        "seller_id": "875",
+        "shipping_discount_type": "freeship_plus",
+        "rule_id": "2433424, 2433430",
+        "rule_name": "Freeship Plus",
+        "tiki_shipping_cost": "28000",
+        "seller_shipping_cost": "13200",
+        "total_order": "9",
+        "total_buyer": "5",
+        "revenue": "660000",
+        "unit_sold": "10"
+    }
+    {
+        "date_key": "2021-09-06",
+        "seller_id": "875",
+        "shipping_discount_type": "freeship_plus",
+        "rule_id": "2433424, 2433431",
+        "rule_name": "Freeship Plus",
+        "tiki_shipping_cost": "30000",
+        "seller_shipping_cost": "14300",
+        "total_order": "11",
+        "total_buyer": "6",
+        "revenue": "770000",
+        "unit_sold": "12"
+    }
+    {
+        "date_key": "2021-09-07",
+        "seller_id": "875",
+        "shipping_discount_type": "freeship_plus",
+        "rule_id": "2433424, 2433432",
+        "rule_name": "Freeship Plus",
+        "tiki_shipping_cost": "32000",
+        "seller_shipping_cost": "15400",
+        "total_order": "13",
+        "total_buyer": "7",
+        "revenue": "880000",
+        "unit_sold": "14"
+    }
+    {
+        "date_key": "2021-09-08",
+        "seller_id": "875",
+        "shipping_discount_type": "freeship_plus",
+        "rule_id": "2433424, 2433433",
+        "rule_name": "Freeship Plus",
+        "tiki_shipping_cost": "34000",
+        "seller_shipping_cost": "16500",
+        "total_order": "15",
+        "total_buyer": "8",
+        "revenue": "990000",
+        "unit_sold": "16"
+    }
+    {
+        "date_key": "2021-09-09",
+        "seller_id": "875",
+        "shipping_discount_type": "freeship_plus",
+        "rule_id": "2433424, 2433434",
+        "rule_name": "Freeship Plus",
+        "tiki_shipping_cost": "36000",
+        "seller_shipping_cost": "17600",
+        "total_order": "17",
+        "total_buyer": "9",
+        "revenue": "1100000",
+        "unit_sold": "18"
+    }
+    {
+        "date_key": "2021-09-10",
+        "seller_id": "875",
+        "shipping_discount_type": "freeship_plus",
+        "rule_id": "2433424, 2433435",
+        "rule_name": "Freeship Plus",
+        "tiki_shipping_cost": "38000",
+        "seller_shipping_cost": "18700",
+        "total_order": "19",
+        "total_buyer": "10",
+        "revenue": "1210000",
+        "unit_sold": "20"
+    }
+    {
+        "date_key": "2021-08-16",
+        "seller_id": "875",
+        "shipping_discount_type": "freeship_plus",
+        "rule_id": "2433424, 2433436",
+        "rule_name": "Freeship Plus",
+        "tiki_shipping_cost": "40000",
+        "seller_shipping_cost": "19800",
+        "total_order": "21",
+        "total_buyer": "11",
+        "revenue": "1320000",
+        "unit_sold": "22"
+    }
+    {
+        "date_key": "2021-08-17",
+        "seller_id": "875",
+        "shipping_discount_type": "freeship_plus",
+        "rule_id": "2433424, 2433437",
+        "rule_name": "Freeship Plus",
+        "tiki_shipping_cost": "42000",
+        "seller_shipping_cost": "20900",
+        "total_order": "23",
+        "total_buyer": "12",
+        "revenue": "1430000",
+        "unit_sold": "24"
+    }
+    {
+        "date_key": "2021-08-18",
+        "seller_id": "875",
+        "shipping_discount_type": "freeship_plus",
+        "rule_id": "2433424, 2433438",
+        "rule_name": "Freeship Plus",
+        "tiki_shipping_cost": "44000",
+        "seller_shipping_cost": "22000",
+        "total_order": "25",
+        "total_buyer": "13",
+        "revenue": "1540000",
+        "unit_sold": "26"
+    }
+    {
+        "date_key": "2021-08-19",
+        "seller_id": "875",
+        "shipping_discount_type": "freeship_plus",
+        "rule_id": "2433424, 2433439",
+        "rule_name": "Freeship Plus",
+        "tiki_shipping_cost": "46000",
+        "seller_shipping_cost": "23100",
+        "total_order": "27",
+        "total_buyer": "14",
+        "revenue": "1650000",
+        "unit_sold": "28"
+    }
+    {
+        "date_key": "2021-08-20",
+        "seller_id": "875",
+        "shipping_discount_type": "freeship_plus",
+        "rule_id": "2433424, 2433440",
+        "rule_name": "Freeship Plus",
+        "tiki_shipping_cost": "48000",
+        "seller_shipping_cost": "24200",
+        "total_order": "29",
+        "total_buyer": "15",
+        "revenue": "1760000",
+        "unit_sold": "30"
+    }
+    {
+        "date_key": "2021-08-21",
+        "seller_id": "875",
+        "shipping_discount_type": "freeship_plus",
+        "rule_id": "2433424, 2433441",
+        "rule_name": "Freeship Plus",
+        "tiki_shipping_cost": "50000",
+        "seller_shipping_cost": "25300",
+        "total_order": "31",
+        "total_buyer": "16",
+        "revenue": "1870000",
+        "unit_sold": "32"
+    }
+    {
+        "date_key": "2021-08-22",
+        "seller_id": "875",
+        "shipping_discount_type": "freeship_plus",
+        "rule_id": "2433424, 2433442",
+        "rule_name": "Freeship Plus",
+        "tiki_shipping_cost": "52000",
+        "seller_shipping_cost": "26400",
+        "total_order": "33",
+        "total_buyer": "17",
+        "revenue": "1980000",
+        "unit_sold": "34"
+    }
+    {
+        "date_key": "2021-08-23",
+        "seller_id": "875",
+        "shipping_discount_type": "freeship_plus",
+        "rule_id": "2433424, 2433443",
+        "rule_name": "Freeship Plus",
+        "tiki_shipping_cost": "54000",
+        "seller_shipping_cost": "27500",
+        "total_order": "35",
+        "total_buyer": "18",
+        "revenue": "2090000",
+        "unit_sold": "36"
+    }
+    {
+        "date_key": "2021-08-24",
+        "seller_id": "875",
+        "shipping_discount_type": "freeship_plus",
+        "rule_id": "2433424, 2433444",
+        "rule_name": "Freeship Plus",
+        "tiki_shipping_cost": "56000",
+        "seller_shipping_cost": "28600",
+        "total_order": "37",
+        "total_buyer": "19",
+        "revenue": "2200000",
+        "unit_sold": "38"
+    }
