@@ -1,4 +1,4 @@
-{
+[{
         "date_key": "2021-09-01",
         "seller_id": "875",
         "shipping_discount_type": "freeship_plus",
@@ -244,4 +244,4 @@
         "total_buyer": "19",
         "revenue": "2200000",
         "unit_sold": "38"
-    },
+    }]
