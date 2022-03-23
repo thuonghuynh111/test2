@@ -1,0 +1,3 @@
+"__time","active_from","active_to","bq_date_key","business_type","cost","coupon_code","coupon_id","coupon_name","coupon_status","coupon_type","revenue","rule_id","seller_id","total_buyer","total_coupon","total_order","total_usage","unit_sold"
+"2022-03-20T00:00:00.000Z","2022-03-20","2022-04-10","","","2135600","TIKIERTEFAL0410","57688434","Tefal - Tikier","0","1","29170000","2901321","22441","2","150","6","6","10"
+"2022-03-20T00:00:00.000Z","2022-04-15","2022-04-30","","","2135600","TIKIERTEFAL0430","57688434","Tefal - Seller","0","3","29170000","2901321","22441","2","150","6","6","10"
