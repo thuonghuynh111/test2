@@ -1,4 +1,4 @@
-"__time","client_id","device","events","hour_key","seller_id","sources"
+"date_time","client_id","device","events","hour_key","seller_id","sources"
 "2022-07-14T00:00:00.000Z","01088dc8-bbe2-a66f-bbfa-16cd5a1c6362","mobile","1","","22441","pdp"
 "2022-07-14T00:00:00.000Z","01316a06-7c25-4bf4-bb2b-92d82ce1609f","mobile","1","","22441","pdp"
 "2022-07-14T00:00:00.000Z","02225f10-a9b7-c577-b655-4cf6551a1ca0","mobile","2","","22441","pdp"
